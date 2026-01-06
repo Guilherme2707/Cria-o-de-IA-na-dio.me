@@ -1,34 +1,24 @@
-🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-Objetivos
-Explorar IAs Generativas: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-Potfólio de Projetos:
-Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-Edite seu README com os detalhes do seu projeto, siga nosso Template (é só copiar, colar e preencher);
-Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-Efeito de Rede: Compartilhe seus resultados nas redes sociais com a hashtag #LabDIONattyOrNot. Não esqueça de nos marcar: DIO e falvojr.
-Template
-# Título do Projeto Extremamente Aesthetic ;)
+Aplicação dos Conhecimentos obtidos no Curso de Inteligência Artificial
 
-## 📒 Descrição
-Breve descrição do seu projeto
+(Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!)
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+📒 Descrição
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Projeto voltado para a criação de um vídeo utilizando Inteligência Artificial, com o objetivo de demonstrar o quanto uma IA pode se assemelhar ao conceito de Fake Natty, ou seja, algo que parece natural e humano, mas foi totalmente gerado por tecnologia.
 
-## 🚀 Resultados
- [![Link](https://img.shields.io/badge/CLIQUE_AQUI-blue)](https://github.com/Guilherme2707/Cria-o-de-IA-na-dio.me/blob/main/Video%20da%20IA.mp4)
+🤖 Tecnologias Utilizadas
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-Exemplos e Insigths
-E-BOOK
-Podcast
-Vídeo (Avatar Virtual)
-Links Interessantes
-Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical
-<img width="1738" height="2023" alt="image" src="https://github.com/user-attachments/assets/6765b3cb-a6b9-4ab2-87e5-0ff90fe10e03" />
+D-ID: Utilizada para a criação do vídeo com avatar virtual e sincronização labial.
 
-Base10's Trend Map Generative AI
+ChatGPT: Utilizado para a criação do texto em formato de fala oral, adaptado para uma narração clara, simples e natural.
+
+🧐 Processo de Criação
+
+O processo começou com a definição do tema do vídeo, relacionando Inteligência Artificial com o conceito de “Fake Natty”.
+Em seguida, utilizei o ChatGPT para criar um texto simples, direto e adaptado para linguagem auditiva, facilitando a compreensão e deixando a fala mais natural.
+Após isso, o texto foi inserido na plataforma D-ID, onde foi gerado o vídeo com avatar virtual e narração automática, simulando uma pessoa real falando sobre o tema.
+
+🚀 Resultados
+
+O resultado foi um vídeo com aparência natural, linguagem clara e boa fluidez na fala, mostrando como a Inteligência Artificial pode criar conteúdos que se parecem muito com produções humanas.
+O projeto demonstra, na prática, o poder das IAs generativas e como elas podem ser usadas para criar vídeos educativos e informativos de forma rápida e eficiente.
