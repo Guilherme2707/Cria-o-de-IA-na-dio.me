@@ -19,7 +19,7 @@ Liste as IAs Generativas e outras ferramentas usadas
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
- [![Link](https://img.shields.io/badge/CLIQUE_AQUI-blue)](https://https://github.com/Guilherme2707/Cria-o-de-IA-na-dio.me/blob/main/Video%20da%20IA.mp4)
+ [![Link](https://img.shields.io/badge/CLIQUE_AQUI-blue)](https://github.com/Guilherme2707/Cria-o-de-IA-na-dio.me/blob/main/Video%20da%20IA.mp4)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
