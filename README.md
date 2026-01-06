@@ -22,3 +22,7 @@ Após isso, o texto foi inserido na plataforma D-ID, onde foi gerado o vídeo co
 
 O resultado foi um vídeo com aparência natural, linguagem clara e boa fluidez na fala, mostrando como a Inteligência Artificial pode criar conteúdos que se parecem muito com produções humanas.
 O projeto demonstra, na prática, o poder das IAs generativas e como elas podem ser usadas para criar vídeos educativos e informativos de forma rápida e eficiente.
+[![Assistir Vídeo](https://img.shields.io/badge/ASSISTIR_VÍDEO-IA-blue)](https://github.com/Guilherme2707/Cria-o-de-IA-na-dio.me/blob/main/Video%20da%20IA.mp4)
+
+<img width="1738" height="2023" alt="image" src="https://github.com/user-attachments/assets/b03dc88b-32b3-45d0-9b15-5639787a7452" />
+
